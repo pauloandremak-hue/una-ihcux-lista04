@@ -1,0 +1,14 @@
+C:\Users\office\Documents\LabDotnet\SistemaBruto\bin\Debug\net10.0\SistemaBruto.exe
+C:\Users\office\Documents\LabDotnet\SistemaBruto\bin\Debug\net10.0\SistemaBruto.deps.json
+C:\Users\office\Documents\LabDotnet\SistemaBruto\bin\Debug\net10.0\SistemaBruto.runtimeconfig.json
+C:\Users\office\Documents\LabDotnet\SistemaBruto\bin\Debug\net10.0\SistemaBruto.dll
+C:\Users\office\Documents\LabDotnet\SistemaBruto\bin\Debug\net10.0\SistemaBruto.pdb
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.AssemblyInfoInputs.cache
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.AssemblyInfo.cs
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.csproj.CoreCompileInputs.cache
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.dll
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\refint\SistemaBruto.dll
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.pdb
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\SistemaBruto.genruntimeconfig.cache
+C:\Users\office\Documents\LabDotnet\SistemaBruto\obj\Debug\net10.0\ref\SistemaBruto.dll
